@@ -16,5 +16,10 @@ namespace World_Public_Records_Database
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
